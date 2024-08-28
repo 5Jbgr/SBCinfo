@@ -34,7 +34,7 @@ c_dict
 
 
 o_dict={"id":2,"name":"other","list":[]}
-o_dict["list"]=[{"name": "enemy","id": 1},{"name": "npc","id": 2},{"name": "other","id": 3}]
+o_dict["list"]=[{"name":"enemy","id":1},{"name":"npc","id":2},{"name":"other","id":3},{"name":"weapon","id":4}]
 m_dict={"id":3,"name":"Music/Sound Effects","list":[]}
 m_dict["list"]=[{"name":"Music/Sound Effects","id":1}]
 u_dict={"id":99,"name":"unknown","list":[]}
