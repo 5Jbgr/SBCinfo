@@ -6,6 +6,7 @@
 
 import pandas as pd
 import json
+import time
 
 table=pd.read_csv(r"中文.csv",encoding="gbk")
 table
@@ -29,6 +30,8 @@ for i in table.values:
     o["category"].append({"name":i[1],"id":len(o["category"])+1,"star":str(i[2]),"skin":skin})
 c_dict
 
+for i in c_dict['list']:
+    i['category'].sort(key=lambda x:x['star'])
 
 # In[3]:
 
@@ -49,7 +52,8 @@ all_in_one
 with open(r"category.json","w",encoding="utf-8") as f:
     json.dump(all_in_one,f)
 
-
+with open(r"update-info","w",encoding="utf-8") as f:
+    json.dump({'date':time.strftime("%Y-%m-%d-%H-%M-%S", time.gmtime())},f);
 # In[ ]:
 
 
