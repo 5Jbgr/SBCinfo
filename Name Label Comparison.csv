@@ -3,6 +3,7 @@
 °²¿¨Ï£ÑÅ-ËŞÉá-Ä¬ÈÏ,Acacia-Dorm-default,girl001_01
 °²¿¨Ï£ÑÅ-ËŞÉá-ÎÂÈª,Acacia-Dorm-hot spring,girl001_01a
 °²¿¨Ï£ÑÅ-²»ÓèÏÔÊ¾-²»Ãğ°ñÊ×,Acacia-Unbeatable Rank,girl001_03
+°²¿¨Ï£ÑÅ-²»ÓèÏÔÊ¾-Ò¶ÒñÏĞÈ¤,Acacia-Idle Cooldown,girl001_04
 °²¿¨Ï£ÑÅ-»ÔÒ¹-Ä¬ÈÏ,Acacia-Kaguya-default,girl001a
 °²¿¨Ï£ÑÅ-»ÔÒ¹-´ÎÔª×·Òä,Acacia-Kaguya-Dimensional Memory,girl001a_02
 °²¿¨Ï£ÑÅ-»ÔÒ¹-¶«Á÷Ó³ºÉ,Acacia-Kaguya-Allure of Lotus,girl001a_03
@@ -78,6 +79,8 @@
 ·ÒÄİ-»ÔÒ«-½ğÊ¨ÎèÈğ,Fenny-Starshine-Lucky Lioness,girl008b_03
 ·ÒÄİ-»ÔÒ«-¼²ËÙÒ«ĞÇ,Fenny-Starshine-Nitro Nova,girl008b_04
 ·ÒÄİ-»ÔÒ«-ÆÆÑæ°ÁÕÀ,Fenny-Starshine-ÆÆÑæ°ÁÕÀ,girl008b_05
+·ÒÄİ-³ÎÒâ-Ä¬ÈÏ,Fenny-Pureheart-default,girl008c
+·ÒÄİ-³ÎÒâ-Ï¦êÍÃÛÔ¼,Fenny-Pureheart-Sunset Sweet,girl008c_02
 ëÈ-ÑøÉú×¨¼Ò-Ä¬ÈÏ,Yao-default,girl010
 ëÈ-ËŞÉá-Ä¬ÈÏ,Yao-Dorm-default,girl010_01
 ëÈ-ËŞÉá-ÎÂÈª,Yao-Dorm-hot spring,girl010_01a
@@ -118,6 +121,8 @@
 ÉªÈğË¿-Ë²¿Ì-Ë²¿ÌåüÌ¬(Ä¬ÈÏ2),Siris-Ksana-default2,girl013a_03
 ÉªÈğË¿-Ë²¿Ì-°ßìµË®É«,Siris-Ksana-Underwater Hues,girl013a_04
 ÉªÈğË¿-Ë²¿Ì-´¿°×Îçºó,Siris-Ksana-Creamy Delight,girl013a_05
+ÉªÈğË¹-ÓÆÓÎ-Ä¬ÈÏ,Siris-Freefin-default,girl013b
+ÉªÈğË¹-ÓÆÓÎ-±Ì²¨¸¡ÓÎ,Siris-Freefin-Azure Drift,girl013b_02
 ³½ĞÇ-¹Û²âÕß-Ä¬ÈÏ,Chenxing-default,girl014
 ³½ĞÇ-ËŞÉá-Ä¬ÈÏ,Chenxing-Dorm-default,girl014_01
 ³½ĞÇ-ËŞÉá-ÎÂÈª,Chenxing-Dorm-hot spring,girl014_01a
@@ -129,6 +134,7 @@
 ³½ĞÇ-ÇíÏÒ-Ä¬ÈÏ,Chenxing-Jade Arc-default,girl014b
 ³½ĞÇ-ÇíÏÒ-ĞÀÃèºì×±,Chenxing-Jade Arc-Rouge Bliss,girl014b_02
 ³½ĞÇ-ÇíÏÒ-ã¼ÒĞ»¨Òõ,Chenxing-Jade Arc-Full Bloom,girl014b_03
+³½ĞÇ-ÇíÏÒ-ÈáÒĞÉíÅÏ,Chenxing-Jade Arc-Tender Agenda,girl014b_04
 ¿­Üçæ«-À¶ÉÁ-Ä¬ÈÏ,Katya-default,girl015
 ¿­Üçæ«-ËŞÉá-Ä¬ÈÏ,Katya-Dorm-default,girl015_01
 ¿­Üçæ«-ËŞÉá-ÎÂÈª,Katya-Dorm-hot spring,girl015_01a
@@ -163,6 +169,7 @@
 Ş±µÙÑÅ-ÁúÉàÀ¼-ÎèÒ¹ÓëÑæ,Vidya-Agave-Dance by Firelight,girl018_03
 Ş±µÙÑÅ-Ìì¶ì×ù-Ä¬ÈÏ,Vidya-Celestial Swan-default,girl018a
 Ş±µÙÑÅ-Ìì¶ì×ù-ÔÆ¶ËÖ®Ñû,Vidya-Celestial Swan-Flight of Fantasy,girl018a_02
+Ş±µÙÑÅ-Ìì¶ì×ù-º£¾³öŞÃÎ,Vidya-Celestial Swan-Aqua Mirage,girl018a_03
 ²·²·-Ğ¡ÌìÊ¦-Ä¬ÈÏ,Bubu-The Geomancer-default,girl020
 ²·²·-ËŞÉá-Ä¬ÈÏ,Bubu-Dorm-default,girl020_01
 ²·²·-ËŞÉá-ÎÂÈª,Bubu-Dorm-hot spring,girl020_01a
@@ -173,6 +180,7 @@
 ÄÎÀòµÂ-ËŞÉá-Ä¬ÈÏ,Nerida-Dorm-default,girl021_01
 ÄÎÀòµÂ-ËŞÉá-ÎÂÈª,Nerida-Dorm-hot spring,girl021_01a
 ÄÎÀòµÂ-Ú¤ºÓ´úÀíÈË-³¿êØÍ³Áî,Nerida-Styx Envoy-Dawn's Command,girl021_02
+ÄÎÀòµÂ-Ú¤ºÓ´úÀíÈË-ÈÈÉ³¼¤ÀË,Nerida-Styx Envoy-Sunspray Surge,girl021_03
 ¿ËÂŞÈğÄÈ-ç³ÔÂ-Ä¬ÈÏ,Clarina-Crimson Moon-default,girl022
 ¿ËÂŞÈğÄÈ-ËŞÉá-Ä¬ÈÏ,Clarina-Drom-default,girl022_01
 ¿ËÂŞÈğÄÈ-ËŞÉá-ÎÂÈª,Clarina-Drom-hot spring,girl022_01a
