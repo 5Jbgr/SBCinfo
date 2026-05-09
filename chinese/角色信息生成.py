@@ -51,7 +51,7 @@ all_in_one
 
 
 with open(r"category.json","w",encoding="utf-8") as f:
-    json.dump(all_in_one,f)
+    json.dump(all_in_one,f,indent=2)
 
 with open(r"update-info","w",encoding="utf-8") as f:
     json.dump({'date':time.strftime("%Y-%m-%d-%H-%M-%S", time.gmtime())},f);
